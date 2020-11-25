@@ -2,6 +2,6 @@ Class hamza {
 
                 Public static void main(String[] args){
                  System.out.println("This is Hamza.This is my first Program.");
-
+                 System.out.println("Add Second line in the file");         
 }
 }
